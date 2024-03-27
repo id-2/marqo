@@ -1,5 +1,5 @@
 # tensor search:
-requests==2.28.1
+requests==2.31.0
 anyio==3.7.1
 fastapi==0.86.0
 uvicorn[standard]
