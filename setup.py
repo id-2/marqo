@@ -24,7 +24,7 @@ setup(
         "sentence-transformers",
         "onnxruntime-gpu",
         "onnx",
-        "protobuf==3.20.1",
+        "protobuf==3.20.2",
         "pandas",
         "optimum",
         "fastapi",
